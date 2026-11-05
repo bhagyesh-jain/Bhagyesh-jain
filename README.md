@@ -117,18 +117,16 @@
 ## 📜 Karma & Stats
 
 <div align="center">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=bhagyesh-jain&show_icons=true&bg_color=000000&title_color=FF3B00&text_color=FFFFFF&icon_color=FFB703&border_color=FF3B00&hide_border=false" alt="GitHub Stats" />
+  
   <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=bhagyesh-jain&background=000000&border=FF3B00&stroke=FF3B00&ring=FF3B00&fire=FFB703&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFB703&sideLabels=FF3B00&dates=999999" alt="GitHub Streak" />
 </div>
 
 <br/>
 
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhagyesh-jain&layout=compact&bg_color=000000&title_color=FF3B00&text_color=FFFFFF&border_color=FF3B00&hide_border=false" alt="Top Languages" />
-</div>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
-  <i>"Karmani eva adhikaraste ma phaleshu kadachana" — Relentless execution in the arena; let the code speak for itself.</i>
+  <i>"कर्मण्येवाधिकारस्ते मा फलेषु कदाचन । मा कर्मफलहेतुर्भूर्मा ते सङ्गोऽस्त्वकर्मणि॥" — Relentless execution in the arena; let the code speak for itself.</i>
 </div>
