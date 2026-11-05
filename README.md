@@ -42,10 +42,10 @@
 ## 🕊️Connect
 
 <p>
-<a href="https://www.linkedin.com/in/bhagyesh-jain">
+<a href="https://www.linkedin.com/in/bhagyesh-jain-a1a86a3a2/">
   <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=FF3B00"/>
 </a>
-<a href="mailto:your.email@gmail.com">
+<a href="mailto:contact.bhagyesh.jain@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=FF3B00"/>
 </a>
 <a href="https://github.com/bhagyesh-jain">
