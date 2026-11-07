@@ -114,13 +114,6 @@
 
 ---
 
-## 📜 Karma & Stats
-
-<div align="center">
-  
-  <img height="170em" src="https://github-readme-streak-stats.herokuapp.com/?user=bhagyesh-jain&background=000000&border=FF3B00&stroke=FF3B00&ring=FF3B00&fire=FFB703&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFB703&sideLabels=FF3B00&dates=999999" alt="GitHub Streak" />
-</div>
-
 <br/>
 
 
